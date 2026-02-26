@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import ReactMarkdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
 import remarkGfm from "remark-gfm";
 import { loadJapanesePost } from "./content/japanese/loadJapanesePost";
 import type { JapanesePostMeta } from "./content/japanese/posts";
@@ -114,7 +115,7 @@ export default function ArticlePage({ post, onBack }: Props) {
         )}
         {!loading && !err && (
           <div className="article-body">
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
               {stripFrontmatter(md)}
             </ReactMarkdown>
           </div>
