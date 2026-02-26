@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0a0e1a;
+  --bg-elev: #0f1525;
+  --card: #111827;
+  --border: rgba(255, 255, 255, 0.08);
+  --border-accent: rgba(255, 255, 255, 0.15);
+  --text: #e8eaf0;
+  --muted: #6b7280;
+  --muted-bright: #9ca3af;
+  --accent: #e05a3a;
+  --accent-dim: rgba(224, 90, 58, 0.15);
+  --dot-color: rgba(255, 255, 255, 0.07);
+  --progress: #e05a3a;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Dot grid background */
+.dot-grid {
+  background-image: radial-gradient(circle, var(--dot-color) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Section divider label — like "RELEASES ——— PART [02]" */
+.section-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 1px solid var(--border-accent);
+  padding-bottom: 0.5rem;
+}
+
+/* Progress bar */
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  background: var(--progress);
+  z-index: 50;
+  transition: width 0.1s linear;
+  box-shadow: 0 0 8px rgba(224, 90, 58, 0.5);
+}
+
+/* Markdown article body */
+.article-body {
+  color: var(--text);
+  line-height: 1.85;
+  font-size: 1rem;
+}
+
+.article-body h1,
+.article-body h2,
+.article-body h3 {
+  color: var(--text);
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.article-body h1 { font-size: 1.5rem; }
+.article-body h2 { font-size: 1.2rem; letter-spacing: 0.01em; }
+.article-body h3 { font-size: 1rem; color: var(--muted-bright); }
+
+.article-body p {
+  margin-bottom: 1.25rem;
+}
+
+.article-body strong {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.article-body em {
+  color: var(--muted-bright);
+  font-style: italic;
+}
+
+.article-body hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+.article-body ul,
+.article-body ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.article-body li {
+  margin-bottom: 0.4rem;
+}
+
+.article-body blockquote {
+  border-left: 2px solid var(--accent);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: var(--muted-bright);
+  font-style: italic;
+}
+
+.article-body code {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.1em 0.35em;
+  font-size: 0.875em;
+}
