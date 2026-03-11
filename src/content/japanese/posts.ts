@@ -42,4 +42,12 @@ export const japanesePosts: JapanesePostMeta[] = [
     date: "2025-12-21",
     tags: ["任天堂", "ゲーム制作", "ゼルダ"],
   },
+  {
+    id: "adhd-01",
+    file: "adhd_01.md",
+    title: "ADHDと「やればできる」のウソとホント",
+    subtitle: "5歳の誕生日パーティーで見えた、ADHDの頭の中",
+    date: "2026-03-11",
+    tags: ["ADHD", "脳科学", "日常生活"],
+  },
 ];
