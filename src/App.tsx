@@ -1,7 +1,12 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ArticlePage from "./ArticlePage";
 import IndexPage from "./IndexPage";
 import { japanesePosts } from "./content/japanese/posts";
+
+function getHashId() {
+  const hash = window.location.hash.slice(1);
+  return hash && japanesePosts.some(p => p.id === hash) ? hash : null;
+}
 
 function HomeBtn() {
   return (
@@ -15,7 +20,17 @@ function HomeBtn() {
 }
 
 export default function App() {
-  const [activeId, setActiveId] = useState<string | null>(null);
+  const [activeId, setActiveId] = useState<string | null>(getHashId);
+
+  useEffect(() => {
+    const onHashChange = () => setActiveId(getHashId());
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
+  }, []);
+
+  const navigate = (id: string | null) => {
+    window.location.hash = id ? id : "";
+  };
 
   const activePost = activeId ? japanesePosts.find(p => p.id === activeId) ?? null : null;
 
@@ -23,9 +38,9 @@ export default function App() {
     <>
       <HomeBtn />
       {activePost ? (
-        <ArticlePage post={activePost} onBack={() => setActiveId(null)} />
+        <ArticlePage post={activePost} onBack={() => navigate(null)} />
       ) : (
-        <IndexPage posts={japanesePosts} onSelect={id => setActiveId(id)} />
+        <IndexPage posts={japanesePosts} onSelect={id => navigate(id)} />
       )}
     </>
   );
