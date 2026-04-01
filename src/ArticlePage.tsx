@@ -54,6 +54,39 @@ export default function ArticlePage({ post, onBack }: Props) {
     window.scrollTo({ top: 0 });
   }, [post.id]);
 
+  // Tap-to-reveal furigana on touch devices
+  useEffect(() => {
+    if (loading || err) return;
+
+    let dismissAll: (() => void) | null = null;
+
+    const raf = requestAnimationFrame(() => {
+      if (!window.matchMedia('(pointer: coarse)').matches) return;
+
+      const body = articleRef.current?.querySelector('.article-body');
+      if (!body) return;
+
+      const rubies = Array.from(body.querySelectorAll('ruby'));
+      dismissAll = () => rubies.forEach(r => r.classList.remove('revealed'));
+
+      rubies.forEach(ruby => {
+        ruby.addEventListener('click', e => {
+          e.stopPropagation();
+          const wasRevealed = ruby.classList.contains('revealed');
+          dismissAll!();
+          if (!wasRevealed) ruby.classList.add('revealed');
+        });
+      });
+
+      window.addEventListener('scroll', dismissAll, { passive: true });
+    });
+
+    return () => {
+      cancelAnimationFrame(raf);
+      if (dismissAll) window.removeEventListener('scroll', dismissAll);
+    };
+  }, [loading, err, md]);
+
   return (
     <div className="dot-grid min-h-screen" ref={articleRef}>
 

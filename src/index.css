@@ -159,3 +159,55 @@ body {
   color: var(--text);
   border-color: rgba(255, 255, 255, 0.2);
 }
+
+/* ── Furigana ────────────────────────────────────────────────
+   Desktop: native <ruby> rendering, rt floats above kanji.
+   Touch devices: rt hidden by default. Tap kanji to reveal
+   a styled tooltip; dismisses on scroll or next tap.
+─────────────────────────────────────────────────────────────── */
+@media (pointer: coarse) {
+  .article-body ruby {
+    position: relative;
+    cursor: pointer;
+    border-bottom: 1px dotted var(--accent);
+    transition: color 0.15s;
+  }
+
+  .article-body ruby rt {
+    display: none;
+  }
+
+  .article-body ruby.revealed {
+    color: var(--accent);
+    border-bottom-style: solid;
+  }
+
+  .article-body ruby.revealed rt {
+    display: block;
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--bg-elev);
+    border: 1px solid rgba(224, 90, 58, 0.5);
+    border-radius: 6px;
+    padding: 3px 10px;
+    font-size: 0.78em;
+    white-space: nowrap;
+    color: var(--accent);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.55);
+    pointer-events: none;
+    z-index: 20;
+  }
+
+  /* tiny arrow pointing down */
+  .article-body ruby.revealed rt::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: rgba(224, 90, 58, 0.5);
+  }
+}
