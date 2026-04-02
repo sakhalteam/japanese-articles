@@ -17,6 +17,21 @@
   --progress: #e05a3a;
 }
 
+[data-theme="light"] {
+  --bg: #f5f0eb;
+  --bg-elev: #ffffff;
+  --card: #ffffff;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-accent: rgba(0, 0, 0, 0.12);
+  --text: #1a1a2e;
+  --muted: #6b7280;
+  --muted-bright: #4b5563;
+  --accent: #c7442a;
+  --accent-dim: rgba(199, 68, 42, 0.1);
+  --dot-color: rgba(0, 0, 0, 0.04);
+  --progress: #c7442a;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -91,8 +106,8 @@ body {
 }
 
 .article-body strong {
-  color: #ffffff;
-  font-weight: 600;
+  color: var(--text);
+  font-weight: 700;
 }
 
 .article-body em {
@@ -158,6 +173,47 @@ body {
   opacity: 1;
   color: var(--text);
   border-color: rgba(255, 255, 255, 0.2);
+}
+
+[data-theme="light"] .home-btn {
+  background: rgba(255, 255, 255, 0.6);
+  border-color: var(--border);
+}
+[data-theme="light"] .home-btn:hover {
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Theme toggle — mirrors home-btn aesthetic, fixed top-right */
+.theme-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 50;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 99px;
+  border: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--muted);
+  cursor: pointer;
+  opacity: 0.55;
+  backdrop-filter: blur(6px);
+  transition: opacity 0.2s, color 0.2s, border-color 0.2s, background 0.2s;
+}
+.theme-toggle:hover {
+  opacity: 1;
+  color: var(--text);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+[data-theme="light"] .theme-toggle {
+  background: rgba(255, 255, 255, 0.6);
+  border-color: var(--border);
+}
+[data-theme="light"] .theme-toggle:hover {
+  border-color: rgba(0, 0, 0, 0.2);
 }
 
 /* ── Furigana ────────────────────────────────────────────────

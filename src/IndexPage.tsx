@@ -51,7 +51,7 @@ export default function IndexPage({ posts, onSelect }: Props) {
                   </span>
 
                   {/* Japanese title */}
-                  <h2 className="text-lg font-semibold leading-snug mb-1 group-hover:text-white transition-colors" style={{ color: "var(--text)" }}>
+                  <h2 className="text-lg font-semibold leading-snug mb-1 transition-colors" style={{ color: "var(--text)" }}>
                     {post.title}
                   </h2>
 

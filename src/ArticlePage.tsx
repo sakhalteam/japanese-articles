@@ -100,7 +100,7 @@ export default function ArticlePage({ post, onBack }: Props) {
           <button
             type="button"
             onClick={onBack}
-            className="flex items-center gap-2 text-xs uppercase tracking-widest transition-colors hover:text-white"
+            className="flex items-center gap-2 text-xs uppercase tracking-widest transition-colors hover:text-[var(--text)]"
             style={{ color: "var(--muted)" }}
           >
             ← All Articles
@@ -160,7 +160,7 @@ export default function ArticlePage({ post, onBack }: Props) {
             <button
               type="button"
               onClick={onBack}
-              className="flex items-center gap-2 text-xs uppercase tracking-widest transition-colors hover:text-white"
+              className="flex items-center gap-2 text-xs uppercase tracking-widest transition-colors hover:text-[var(--text)]"
               style={{ color: "var(--muted)" }}
             >
               ← Back to Articles
