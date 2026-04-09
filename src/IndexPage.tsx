@@ -8,24 +8,24 @@ interface Props {
 export default function IndexPage({ posts, onSelect }: Props) {
   return (
     <div className="dot-grid min-h-screen">
-      <div className="max-w-4xl mx-auto px-6 py-16">
+      <div className="max-w-5xl mx-auto px-5 py-12">
 
         {/* Site header */}
-        <header className="mb-16">
-          <div className="section-label mb-6">
+        <header className="mb-6">
+          <div className="section-label mb-5">
             <span>SAKHALTEAM</span>
             <span>日本語</span>
           </div>
-          <h1 className="text-4xl font-bold tracking-tight" style={{ color: "var(--text)" }}>
+          <h1 className="text-5xl font-bold tracking-tight" style={{ color: "var(--text)" }}>
             日本語の記事
           </h1>
-          <p className="mt-3 text-sm" style={{ color: "var(--muted)" }}>
+          <p className="mt-3" style={{ color: "var(--muted)", fontSize: "0.95rem" }}>
             Reading practice. Click an article to begin.
           </p>
         </header>
 
         {/* Section label */}
-        <div className="section-label mb-8">
+        <div className="section-label mb-0">
           <span>ARTICLES</span>
           <span>[ {posts.length} ]</span>
         </div>
@@ -37,7 +37,7 @@ export default function IndexPage({ posts, onSelect }: Props) {
               key={post.id}
               type="button"
               onClick={() => onSelect(post.id)}
-              className="group w-full text-left p-6 transition-colors duration-150"
+              className="group w-full text-left py-5 px-1 transition-colors duration-150"
               style={{ background: "var(--bg)" }}
               onMouseEnter={e => (e.currentTarget.style.background = "var(--bg-elev)")}
               onMouseLeave={e => (e.currentTarget.style.background = "var(--bg)")}
@@ -46,18 +46,18 @@ export default function IndexPage({ posts, onSelect }: Props) {
                 <div className="flex-1 min-w-0">
 
                   {/* Index number */}
-                  <span className="text-xs font-mono mb-2 block" style={{ color: "var(--muted)" }}>
+                  <span className="text-xs font-mono mb-1.5 block" style={{ color: "var(--muted)" }}>
                     [ {String(i + 1).padStart(2, "0")} ]
                   </span>
 
                   {/* Japanese title */}
-                  <h2 className="text-lg font-semibold leading-snug mb-1 transition-colors" style={{ color: "var(--text)" }}>
+                  <h2 className="text-xl font-semibold leading-snug mb-1 transition-colors" style={{ color: "var(--text)" }}>
                     {post.title}
                   </h2>
 
                   {/* Subtitle */}
                   {post.subtitle && (
-                    <p className="text-sm mb-3" style={{ color: "var(--muted-bright)" }}>
+                    <p className="text-sm mb-2.5" style={{ color: "var(--muted-bright)" }}>
                       {post.subtitle}
                     </p>
                   )}
@@ -83,7 +83,7 @@ export default function IndexPage({ posts, onSelect }: Props) {
 
                 {/* Arrow */}
                 <span
-                  className="text-xs font-mono mt-1 shrink-0 opacity-0 group-hover:opacity-100 transition-opacity"
+                  className="text-sm font-mono mt-1 shrink-0 opacity-0 group-hover:opacity-100 transition-opacity"
                   style={{ color: "var(--accent)" }}
                 >
                   →
