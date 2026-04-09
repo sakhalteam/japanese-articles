@@ -156,14 +156,14 @@ body {
   gap: 6px;
   padding: 5px 10px 5px 8px;
   border-radius: 99px;
-  border: 1px solid var(--border);
+  border: 1px solid rgba(255,255,255,0.08);
   background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
   color: var(--muted);
   text-decoration: none;
   font-size: 11px;
   letter-spacing: 0.08em;
   opacity: 0.55;
-  backdrop-filter: blur(6px);
   transition: opacity 0.2s, color 0.2s, border-color 0.2s;
 }
 
