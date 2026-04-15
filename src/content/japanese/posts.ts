@@ -50,4 +50,12 @@ export const japanesePosts: JapanesePostMeta[] = [
     date: "2026-03-11",
     tags: ["ADHD", "脳科学", "日常生活"],
   },
+  {
+    id: "sperm-whale-vowels",
+    file: "sperm-whale-vowels.md",
+    title: "マッコウクジラは「母音」のような音を作る？",
+    subtitle: "人間のことばに似た、海のコミュニケーション",
+    date: "2026-04-14",
+    tags: ["マッコウクジラ", "動物言語学", "音声学"],
+  },
 ];
