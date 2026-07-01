@@ -58,4 +58,12 @@ export const japanesePosts: JapanesePostMeta[] = [
     date: "2026-04-14",
     tags: ["マッコウクジラ", "動物言語学", "音声学"],
   },
+  {
+    id: "bpc-157-tendons",
+    file: "bpc-157-tendons.md",
+    title: "BPC-157は腱の修理を助けるかもしれない",
+    subtitle: "成長ホルモンの「アンテナ」を増やすペプチドの話",
+    date: "2026-07-01",
+    tags: ["ペプチド", "生物学", "けが"],
+  },
 ];
