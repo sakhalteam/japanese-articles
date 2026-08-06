@@ -66,4 +66,12 @@ export const japanesePosts: JapanesePostMeta[] = [
     date: "2026-07-01",
     tags: ["ペプチド", "生物学", "けが"],
   },
+  {
+    id: "opioid-addiction",
+    file: "opioid-addiction.md",
+    title: "18歳の僕とオキシコンチン",
+    subtitle: "気持ちよさと、地獄の一週間と、そこから抜け出せた理由",
+    date: "2026-08-06",
+    tags: ["依存症", "オピオイド", "脳科学"],
+  },
 ];
