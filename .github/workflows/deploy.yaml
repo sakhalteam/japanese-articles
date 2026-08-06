@@ -3,6 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Manual trigger: lets you redeploy from the Actions tab without an empty
+  # commit (useful when push webhooks are throttled during a GitHub incident).
+  workflow_dispatch:
 
 permissions:
   contents: read
