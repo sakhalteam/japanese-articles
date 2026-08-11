@@ -9,17 +9,17 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 **――気持ちよさと、地獄の一週間と、そこから抜け出せた理由――**
 
-> **注意：**この記事には、<ruby>薬物<rt>やくぶつ</rt></ruby><ruby>依存<rt>いぞん</rt></ruby>、<ruby>離脱症状<rt>りだつしょうじょう</rt></ruby>、<ruby>自殺<rt>じさつ</rt></ruby><ruby>願望<rt>がんぼう</rt></ruby>の話が出てきます。20年以上前の、僕自身の<ruby>体験<rt>けいけん</rt></ruby>です。
+> **注意：**この記事には、<ruby>薬物依存<rt>やくぶついぞん</rt></ruby>、<ruby>離脱症状<rt>りだつしょうじょう</rt></ruby>、<ruby>自殺願望<rt>じさつがんぼう</rt></ruby>の話が出てきます。20年以上前の、僕自身の<ruby>体験<rt>けいけん</rt></ruby>です。
 
-## １．<ruby>親知<rt>おやし</rt></ruby>らずと、最初の一<ruby>錠<rt>じょう</rt></ruby>
+## １．<ruby>親知らず<rt>おやしらず</rt></ruby>と、最初の一<ruby>錠<rt>じょう</rt></ruby>
 
 はじまりは、まったくふつうのことでした。
 
-18歳のとき、僕は<ruby>親知<rt>おやし</rt></ruby>らずを4本ぜんぶ<ruby>抜<rt>ぬ</rt></ruby>きました。<ruby>歯医者<rt>はいしゃ</rt></ruby>さんは<ruby>普通<rt>ふつう</rt></ruby>に、<ruby>痛<rt>いた</rt></ruby>み<ruby>止<rt>ど</rt></ruby>めを<ruby>処方<rt>しょほう</rt></ruby>してくれました。
+18歳のとき、僕は<ruby>親知らず<rt>おやしらず</rt></ruby>を4本ぜんぶ<ruby>抜<rt>ぬ</rt></ruby>きました。<ruby>歯医者<rt>はいしゃ</rt></ruby>さんは<ruby>普通<rt>ふつう</rt></ruby>に、<ruby>痛み止め<rt>いたみどめ</rt></ruby>を<ruby>処方<rt>しょほう</rt></ruby>してくれました。
 
 **バイコディン**という<ruby>薬<rt>くすり</rt></ruby>です。
 
-アメリカでは、当時これはごくあたりまえの<ruby>処方<rt>しょほう</rt></ruby>でした。<ruby>誰<rt>だれ</rt></ruby>も<ruby>心配<rt>しんぱい</rt></ruby>しませんでした。<ruby>僕<rt>ぼく</rt></ruby>の親も心配しませんでした。歯を抜いたら痛み止めをもらう。それだけのことです。
+アメリカでは、当時これはごくあたりまえの<ruby>処方<rt>しょほう</rt></ruby>でした。<ruby>誰<rt>だれ</rt></ruby>も<ruby>心配<rt>しんぱい</rt></ruby>しませんでした。<ruby>僕<rt>ぼく</rt></ruby>の親もそうです。歯を抜いたら痛み止めをもらう。ただ、それだけのことでした。
 
 でも、その一錠を<ruby>飲<rt>の</rt></ruby>んだとき、僕の頭の中で何かが<ruby>起<rt>お</rt></ruby>きました。
 
@@ -41,19 +41,19 @@ tags: ["依存症", "オピオイド", "脳科学"]
 - <ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れたばかりだった
 - <ruby>新<rt>あたら</rt></ruby>しい彼女は、<ruby>浮気<rt>うわき</rt></ruby>をしていた
 
-<ruby>特<rt>とく</rt></ruby>に3つめが、18歳の僕には<ruby>効<rt>き</rt></ruby>きました。
+<ruby>特<rt>とく</rt></ruby>に3つめは、18歳の僕にはかなりこたえました。
 
 <ruby>浮気<rt>うわき</rt></ruby>をされたとき、僕が感じたのは<ruby>悲<rt>かな</rt></ruby>しさだけではありませんでした。**「<ruby>男<rt>おとこ</rt></ruby>としての<ruby>自分<rt>じぶん</rt></ruby>」**が<ruby>否定<rt>ひてい</rt></ruby>されたような気がしたのです。
 
 > 僕は<ruby>男<rt>おとこ</rt></ruby>として<ruby>足<rt>た</rt></ruby>りないんじゃないか。
 
-18歳の<ruby>男<rt>おとこ</rt></ruby>の子にとって、これはとても<ruby>重<rt>おも</rt></ruby>い<ruby>問<rt>と</rt></ruby>いです。そして、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>相談<rt>そうだん</rt></ruby>できない<ruby>問<rt>と</rt></ruby>いでもあります。
+18歳の<ruby>男<rt>おとこ</rt></ruby>の子にとって、これはかなり<ruby>重<rt>おも</rt></ruby>い<ruby>問<rt>と</rt></ruby>いです。しかも、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>相談<rt>そうだん</rt></ruby>しにくい<ruby>問<rt>と</rt></ruby>いでした。
 
 そんなときにバイコディンを飲むと、その<ruby>問<rt>と</rt></ruby>いが**きれいに消える**のです。
 
 <ruby>解決<rt>かいけつ</rt></ruby>したわけではありません。ただ、**どうでもよくなる**のです。
 
-<ruby>鬱<rt>うつ</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby>にとって、これがどれだけ<ruby>魅力的<rt>みりょくてき</rt></ruby>か、<ruby>想像<rt>そうぞう</rt></ruby>できるでしょうか。
+<ruby>鬱<rt>うつ</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby>にとって、それがどれだけ<ruby>魅力的<rt>みりょくてき</rt></ruby>だったか。今なら、少しこわいくらい分かります。
 
 ## ３．ピザハットの<ruby>先輩<rt>せんぱい</rt></ruby>たち
 
@@ -63,7 +63,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>手<rt>て</rt></ruby>を<ruby>火傷<rt>やけど</rt></ruby>する。<ruby>指<rt>ゆび</rt></ruby>を<ruby>切<rt>き</rt></ruby>る。<ruby>階段<rt>かいだん</rt></ruby>から<ruby>落<rt>お</rt></ruby>ちる。
 
-<ruby>痛<rt>いた</rt></ruby>み<ruby>止<rt>ど</rt></ruby>めをもらうために、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>い<ruby>思<rt>おも</rt></ruby>いをする。<ruby>今<rt>いま</rt></ruby><ruby>考<rt>かんが</rt></ruby>えれば<ruby>異常<rt>いじょう</rt></ruby>ですが、そのときの<ruby>僕<rt>ぼく</rt></ruby>は「そういうものか」と思っていました。
+<ruby>痛み止め<rt>いたみどめ</rt></ruby>をもらうために、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>い<ruby>思<rt>おも</rt></ruby>いをする。今考えれば<ruby>異常<rt>いじょう</rt></ruby>ですが、そのときの<ruby>僕<rt>ぼく</rt></ruby>は「そういうものか」と思っていました。
 
 ある日、そのうちのひとりが**パーコセット**の<ruby>瓶<rt>びん</rt></ruby>をひとつ、僕に<ruby>売<rt>う</rt></ruby>ってくれました。
 
@@ -86,7 +86,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 | バイコディン | ヒドロコドン | アセトアミノフェン |
 | パーコセット | オキシコドン | アセトアミノフェン |
 
-アセトアミノフェンは、<ruby>日本<rt>にほん</rt></ruby>でも「タイレノール」という<ruby>名前<rt>なまえ</rt></ruby>で<ruby>売<rt>う</rt></ruby>られている、ふつうの<ruby>解熱<rt>げねつ</rt></ruby><ruby>鎮痛剤<rt>ちんつうざい</rt></ruby>です。<ruby>普通<rt>ふつう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うぶんには<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>薬<rt>くすり</rt></ruby>です。
+アセトアミノフェンは、<ruby>日本<rt>にほん</rt></ruby>でも「タイレノール」という<ruby>名前<rt>なまえ</rt></ruby>で<ruby>売<rt>う</rt></ruby>られている、ふつうの<ruby>解熱鎮痛剤<rt>げねつちんつうざい</rt></ruby>です。<ruby>普通<rt>ふつう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うぶんには<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>薬<rt>くすり</rt></ruby>です。
 
 でも、たくさん<ruby>飲<rt>の</rt></ruby>むと**<ruby>肝臓<rt>かんぞう</rt></ruby>をこわします**。<ruby>最悪<rt>さいあく</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>死<rt>し</rt></ruby>にます。
 
@@ -98,7 +98,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>皮肉<rt>ひにく</rt></ruby>なことに、この「<ruby>天井<rt>てんじょう</rt></ruby>」は<ruby>本来<rt>ほんらい</rt></ruby>、<ruby>飲<rt>の</rt></ruby>みすぎを<ruby>防<rt>ふせ</rt></ruby>ぐためのブレーキでした。わざと、そう<ruby>作<rt>つく</rt></ruby>ってあったのです。
 
-そして、その<ruby>天井<rt>てんじょう</rt></ruby>が**まったくない<ruby>薬<rt>くすり</rt></ruby>**が、ちょうどそのころ、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>町<rt>まち</rt></ruby>で<ruby>大流行<rt>だいりゅうこう</rt></ruby>していました。
+そして、その<ruby>天井<rt>てんじょう</rt></ruby>が**まったくない<ruby>薬<rt>くすり</rt></ruby>**が、ちょうどそのころ、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>町<rt>まち</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がっていました。
 
 ## ５．オキシコンチンがやってきた
 
@@ -123,7 +123,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 - そのあと、ふたりで<ruby>何時間<rt>なんじかん</rt></ruby>も<ruby>吐<rt>は</rt></ruby>く
 - <ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>、またやる
 
-<ruby>読<rt>よ</rt></ruby>んでいて「おかしい」と<ruby>思<rt>おも</rt></ruby>うでしょう。**<ruby>何時間<rt>なんじかん</rt></ruby>も<ruby>吐<rt>は</rt></ruby>いているのに、なぜまたやるのか**、と。
+<ruby>読<rt>よ</rt></ruby>んでいて「おかしい」と<ruby>思<rt>おも</rt></ruby>うかもしれません。**<ruby>何時間<rt>なんじかん</rt></ruby>も<ruby>吐<rt>は</rt></ruby>いているのに、なぜまたやるのか**、と。
 
 <ruby>僕<rt>ぼく</rt></ruby>もそう<ruby>思<rt>おも</rt></ruby>います。<ruby>今<rt>いま</rt></ruby>は。
 
@@ -137,21 +137,21 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>薬物<rt>やくぶつ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をするとき、<ruby>大人<rt>おとな</rt></ruby>はよく「<ruby>気持<rt>きも</rt></ruby>ちよくなんかないよ」「<ruby>体<rt>からだ</rt></ruby>がボロボロになるだけだよ」と<ruby>言<rt>い</rt></ruby>います。
 
-それは**ウソ**です。そして、そのウソが<ruby>人<rt>ひと</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>します。
+でも、それは<ruby>本当<rt>ほんとう</rt></ruby>ではありません。そう<ruby>言<rt>い</rt></ruby>い切ってしまうほうが、むしろ<ruby>危険<rt>きけん</rt></ruby>です。
 
 <ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>います。
 
-> <ruby>今<rt>いま</rt></ruby>まで<ruby>人生<rt>じんせい</rt></ruby>で<ruby>経験<rt>けいけん</rt></ruby>した、いちばんすごいオーガズムを<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>してください。
+> <ruby>今<rt>いま</rt></ruby>まで<ruby>人生<rt>じんせい</rt></ruby>で<ruby>経験<rt>けいけん</rt></ruby>した、いちばん<ruby>強<rt>つよ</rt></ruby>い<ruby>快感<rt>かいかん</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>してください。
 > それを1000<ruby>倍<rt>ばい</rt></ruby>にしてください。
-> **それでもまだ、<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>足<rt>た</rt></ruby>りません。**
+> **それでもまだ、<ruby>全然<rt>ぜんぜん</rt></ruby>足りません。**
 
-これがオピオイドです。
+それくらい、<ruby>強<rt>つよ</rt></ruby>いものでした。
 
 <ruby>体<rt>からだ</rt></ruby>じゅうがあたたかい<ruby>光<rt>ひかり</rt></ruby>で<ruby>満<rt>み</rt></ruby>たされて、<ruby>不安<rt>ふあん</rt></ruby>も、<ruby>後悔<rt>こうかい</rt></ruby>も、<ruby>恥<rt>は</rt></ruby>ずかしさも、<ruby>孤独<rt>こどく</rt></ruby>も、<ruby>全部<rt>ぜんぶ</rt></ruby>きれいに<ruby>消<rt>き</rt></ruby>えます。<ruby>世界<rt>せかい</rt></ruby>が「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ」と<ruby>言<rt>い</rt></ruby>ってくれるような<ruby>感<rt>かん</rt></ruby>じです。
 
 そして――**それこそが、いちばんおそろしいところ**なのです。
 
-<ruby>危険<rt>きけん</rt></ruby>なのは「まずい<ruby>薬<rt>くすり</rt></ruby>」ではありません。<ruby>危険<rt>きけん</rt></ruby>なのは、**<ruby>人間<rt>にんげん</rt></ruby>の<ruby>脳<rt>のう</rt></ruby>が<ruby>耐<rt>た</rt></ruby>えられないほど<ruby>気持<rt>きも</rt></ruby>ちいい<ruby>薬<rt>くすり</rt></ruby>**です。
+<ruby>危険<rt>きけん</rt></ruby>なのは「まずい<ruby>薬<rt>くすり</rt></ruby>」ではありません。<ruby>危険<rt>きけん</rt></ruby>なのは、**<ruby>人間<rt>にんげん</rt></ruby>の<ruby>脳<rt>のう</rt></ruby>が<ruby>耐<rt>た</rt></ruby>えられないほど<ruby>気持<rt>きも</rt></ruby>ちいい<ruby>薬<rt>くすり</rt></ruby>**なのです。
 
 ## ７．<ruby>脳<rt>のう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>きているのか
 
@@ -173,7 +173,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>問題<rt>もんだい</rt></ruby>は、**エンドルフィンより<ruby>何十倍<rt>なんじゅうばい</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>い**ということ。
 
-<ruby>鍵穴<rt>かぎあな</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>開<rt>ひら</rt></ruby>くと、<ruby>脳<rt>のう</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>にある**<ruby>側坐核<rt>そくざかく</rt></ruby>**という<ruby>場所<rt>ばしょ</rt></ruby>で、ドーパミンが<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>出<rt>で</rt></ruby>ます。ここは「<ruby>報酬系<rt>ほうしゅうけい</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれる、<ruby>脳<rt>のう</rt></ruby>のごほうび<ruby>装置<rt>そうち</rt></ruby>です。
+<ruby>鍵穴<rt>かぎあな</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に全部開くと、<ruby>脳<rt>のう</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>にある**<ruby>側坐核<rt>そくざかく</rt></ruby>**という<ruby>場所<rt>ばしょ</rt></ruby>で、ドーパミンが<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>出<rt>で</rt></ruby>ます。ここは「<ruby>報酬系<rt>ほうしゅうけい</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれる、<ruby>脳<rt>のう</rt></ruby>のごほうび<ruby>装置<rt>そうち</rt></ruby>です。
 
 <ruby>本来<rt>ほんらい</rt></ruby>、<ruby>報酬系<rt>ほうしゅうけい</rt></ruby>は「<ruby>生<rt>い</rt></ruby>きるために<ruby>大事<rt>だいじ</rt></ruby>なこと」を<ruby>覚<rt>おぼ</rt></ruby>えさせるための<ruby>仕組<rt>しく</rt></ruby>みです。<ruby>食<rt>た</rt></ruby>べる。<ruby>飲<rt>の</rt></ruby>む。<ruby>子<rt>こ</rt></ruby>どもを<ruby>守<rt>まも</rt></ruby>る。
 
@@ -181,11 +181,11 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 > **これは、<ruby>食<rt>た</rt></ruby>べものより<ruby>大事<rt>だいじ</rt></ruby>だ。<ruby>水<rt>みず</rt></ruby>より<ruby>大事<rt>だいじ</rt></ruby>だ。<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れるな。**
 
-これは<ruby>意志<rt>いし</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>ではありません。<ruby>脳<rt>のう</rt></ruby>の<ruby>学習<rt>がくしゅう</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が、<ruby>正<rt>ただ</rt></ruby>しく<ruby>働<rt>はたら</rt></ruby>いた<ruby>結果<rt>けっか</rt></ruby>です。<ruby>間違<rt>まちが</rt></ruby>ったものに<ruby>対<rt>たい</rt></ruby>して。
+これは<ruby>意志<rt>いし</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>ではありません。<ruby>脳<rt>のう</rt></ruby>の<ruby>学習機能<rt>がくしゅうきのう</rt></ruby>が、<ruby>正<rt>ただ</rt></ruby>しく<ruby>働<rt>はたら</rt></ruby>いた<ruby>結果<rt>けっか</rt></ruby>です。<ruby>間違<rt>まちが</rt></ruby>ったものに<ruby>対<rt>たい</rt></ruby>して。
 
 ### <ruby>耐性<rt>たいせい</rt></ruby>と<ruby>依存<rt>いぞん</rt></ruby>
 
-<ruby>脳<rt>のう</rt></ruby>は、こんな<ruby>強<rt>つよ</rt></ruby>い<ruby>刺激<rt>しげき</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby><ruby>来<rt>く</rt></ruby>ると<ruby>困<rt>こま</rt></ruby>ります。だから<ruby>調整<rt>ちょうせい</rt></ruby>します。
+<ruby>脳<rt>のう</rt></ruby>は、こんな<ruby>強<rt>つよ</rt></ruby>い<ruby>刺激<rt>しげき</rt></ruby>が毎日来ると<ruby>困<rt>こま</rt></ruby>ります。だから<ruby>調整<rt>ちょうせい</rt></ruby>します。
 
 1. <ruby>鍵穴<rt>かぎあな</rt></ruby>（<ruby>受容体<rt>じゅようたい</rt></ruby>）の<ruby>数<rt>かず</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす
 2. <ruby>自分<rt>じぶん</rt></ruby>でエンドルフィンを<ruby>作<rt>つく</rt></ruby>るのをやめる
@@ -198,9 +198,9 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 つまり、ある<ruby>時点<rt>じてん</rt></ruby>から、<ruby>薬<rt>くすり</rt></ruby>は「<ruby>気持<rt>きも</rt></ruby>ちよくなるため」ではなく「**ふつうでいるため**」に<ruby>必要<rt>ひつよう</rt></ruby>になります。
 
-<ruby>依存症<rt>いぞんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「なんであんなに<ruby>楽<rt>たの</rt></ruby>しそうじゃないのに、やめないんだろう」と<ruby>思<rt>おも</rt></ruby>ったことはありませんか。
+<ruby>依存症<rt>いぞんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、「もう<ruby>楽<rt>たの</rt></ruby>しそうでもないのに、なぜやめられないんだろう」と<ruby>思<rt>おも</rt></ruby>うことがあるかもしれません。
 
-<ruby>答<rt>こた</rt></ruby>えはこれです。もう<ruby>楽<rt>たの</rt></ruby>しくないのです。ただ、**やめるほうがもっとひどい**のです。
+<ruby>答<rt>こた</rt></ruby>えは、たぶんこれです。もう<ruby>楽<rt>たの</rt></ruby>しくない。でも、**やめるほうがもっとひどい**のです。
 
 ## ８．「グランマ」の<ruby>薬<rt>くすり</rt></ruby>
 
@@ -214,7 +214,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 そして、ライアンはそれを**<ruby>盗<rt>ぬす</rt></ruby>んでいました**。
 
-<ruby>僕<rt>ぼく</rt></ruby>はそのとき、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>何<rt>なに</rt></ruby>も<ruby>知<rt>し</rt></ruby>りませんでした。<ruby>知<rt>し</rt></ruby>った<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たくなりました。
+<ruby>僕<rt>ぼく</rt></ruby>はそのときまで、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>何<rt>なに</rt></ruby>も<ruby>知<rt>し</rt></ruby>りませんでした。<ruby>知<rt>し</rt></ruby>った<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たくなりました。
 
 <ruby>痛<rt>いた</rt></ruby>みで<ruby>苦<rt>くる</rt></ruby>しんでいるおばあさんの<ruby>薬<rt>くすり</rt></ruby>を、<ruby>僕<rt>ぼく</rt></ruby>は<ruby>飲<rt>の</rt></ruby>んでいた。
 
@@ -234,7 +234,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>風呂場<rt>ふろば</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べたのは、これだけです。
 
-- **<ruby>痛<rt>いた</rt></ruby>み<ruby>止<rt>ど</rt></ruby>め3<ruby>種類<rt>しゅるい</rt></ruby>** … アリーブ、タイレノール、アドビル（<ruby>日本<rt>にほん</rt></ruby>でいえばロキソニン、タイレノール、イブのようなもの。<ruby>筋肉<rt>きんにく</rt></ruby>と<ruby>関節<rt>かんせつ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みのため）
+- **<ruby>痛み止め<rt>いたみどめ</rt></ruby>3<ruby>種類<rt>しゅるい</rt></ruby>** … アリーブ、タイレノール、アドビル（<ruby>日本<rt>にほん</rt></ruby>でいえばロキソニン、タイレノール、イブのようなもの。<ruby>筋肉<rt>きんにく</rt></ruby>と<ruby>関節<rt>かんせつ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みのため）
 - **ナイキル** … <ruby>夜用<rt>よるよう</rt></ruby>のかぜ<ruby>薬<rt>ぐすり</rt></ruby>。<ruby>眠<rt>ねむ</rt></ruby>くなる<ruby>成分<rt>せいぶん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っている。<ruby>少<rt>すこ</rt></ruby>しでも<ruby>眠<rt>ねむ</rt></ruby>りたかった
 - **<ruby>氷<rt>こおり</rt></ruby>まくら** … <ruby>汗<rt>あせ</rt></ruby>と<ruby>寒気<rt>さむけ</rt></ruby>が<ruby>交互<rt>こうご</rt></ruby>に<ruby>来<rt>く</rt></ruby>るため
 - **タバコ**
@@ -244,11 +244,11 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 そして、**<ruby>折<rt>お</rt></ruby>りたたみ<ruby>携帯<rt>けいたい</rt></ruby>**。
 
-<ruby>手<rt>て</rt></ruby>の<ruby>届<rt>とど</rt></ruby>くところに<ruby>置<rt>お</rt></ruby>いていました。**<ruby>自殺<rt>じさつ</rt></ruby>したい<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>くなりすぎたら、911（アメリカの<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>。<ruby>日本<rt>にほん</rt></ruby>の119<ruby>番<rt>ばん</rt></ruby>）に<ruby>電話<rt>でんわ</rt></ruby>するため**です。
+<ruby>手<rt>て</rt></ruby>の<ruby>届<rt>とど</rt></ruby>くところに<ruby>置<rt>お</rt></ruby>いていました。**<ruby>自殺<rt>じさつ</rt></ruby>したい<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>くなりすぎたら、911（アメリカの<ruby>緊急電話<rt>きんきゅうでんわ</rt></ruby>。<ruby>日本<rt>にほん</rt></ruby>の119<ruby>番<rt>ばん</rt></ruby>）に<ruby>電話<rt>でんわ</rt></ruby>するため**です。
 
 ### <ruby>実際<rt>じっさい</rt></ruby>に<ruby>起<rt>お</rt></ruby>きたこと
 
-<ruby>初日<rt>しょにち</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>は<ruby>吐<rt>は</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>けました。<ruby>胃<rt>い</rt></ruby>の<ruby>中<rt>なか</rt></ruby>のものが<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>出<rt>で</rt></ruby>ても、まだ<ruby>止<rt>と</rt></ruby>まりません。
+<ruby>初日<rt>しょにち</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>は<ruby>吐<rt>は</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>けました。<ruby>胃<rt>い</rt></ruby>の<ruby>中<rt>なか</rt></ruby>のものが全部出ても、まだ<ruby>止<rt>と</rt></ruby>まりません。
 
 <ruby>残<rt>のこ</rt></ruby>りの5<ruby>日間<rt>にちかん</rt></ruby>は、<ruby>出<rt>だ</rt></ruby>すものが<ruby>何<rt>なに</rt></ruby>もない**からえずき**でした。
 
@@ -278,7 +278,7 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 そして、<ruby>自分<rt>じぶん</rt></ruby>のエンドルフィンが<ruby>戻<rt>もど</rt></ruby>ってくるまでに<ruby>時間<rt>じかん</rt></ruby>がかかります。その<ruby>間<rt>あいだ</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>は**<ruby>喜<rt>よろこ</rt></ruby>びを<ruby>感<rt>かん</rt></ruby>じる<ruby>能力<rt>のうりょく</rt></ruby>そのものを<ruby>失<rt>うしな</rt></ruby>います**。
 
-<ruby>自殺<rt>じさつ</rt></ruby>したくなるのは、そのためです。<ruby>悲<rt>かな</rt></ruby>しいからではありません。**<ruby>希望<rt>きぼう</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じる<ruby>装置<rt>そうち</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れている**からです。
+<ruby>自殺<rt>じさつ</rt></ruby>したくなるのは、そのためです。ただ<ruby>悲<rt>かな</rt></ruby>しいからではありません。**<ruby>希望<rt>きぼう</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じる<ruby>装置<rt>そうち</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れている**ような<ruby>状態<rt>じょうたい</rt></ruby>になるからです。
 
 ### ことばの<ruby>話<rt>はなし</rt></ruby>：なぜ「<ruby>冷<rt>つめ</rt></ruby>たい<ruby>七面鳥<rt>しちめんちょう</rt></ruby>」なのか
 
@@ -288,21 +288,21 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>離脱<rt>りだつ</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>は、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>汗<rt>あせ</rt></ruby>で<ruby>青白<rt>あおじろ</rt></ruby>くなり、<ruby>鳥肌<rt>とりはだ</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちっぱなしになります。その<ruby>様子<rt>ようす</rt></ruby>が、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>した<ruby>七面鳥<rt>しちめんちょう</rt></ruby>の<ruby>皮<rt>かわ</rt></ruby>にそっくりだから、というのです。
 
-<ruby>日本語<rt>にほんご</rt></ruby>の「<ruby>鳥肌<rt>とりはだ</rt></ruby>」と<ruby>同<rt>おな</rt></ruby>じ<ruby>発想<rt>はっそう</rt></ruby>ですね。<ruby>離<rt>はな</rt></ruby>れた<ruby>言語<rt>げんご</rt></ruby>が、<ruby>同<rt>おな</rt></ruby>じ<ruby>体<rt>からだ</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>から<ruby>同<rt>おな</rt></ruby>じ<ruby>比喩<rt>ひゆ</rt></ruby>にたどりつく。
+<ruby>日本語<rt>にほんご</rt></ruby>の「<ruby>鳥肌<rt>とりはだ</rt></ruby>」と<ruby>同<rt>おな</rt></ruby>じ<ruby>発想<rt>はっそう</rt></ruby>ですね。<ruby>離<rt>はな</rt></ruby>れた<ruby>言語<rt>げんご</rt></ruby>でも、<ruby>同<rt>おな</rt></ruby>じ<ruby>体<rt>からだ</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>から<ruby>同<rt>おな</rt></ruby>じ<ruby>比喩<rt>ひゆ</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれることがあります。
 
-<ruby>地獄<rt>じごく</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>でそんなことは<ruby>考<rt>かんが</rt></ruby>えませんでしたが、<ruby>今<rt>いま</rt></ruby><ruby>思<rt>おも</rt></ruby>えば、これは<ruby>僕<rt>ぼく</rt></ruby>という<ruby>人間<rt>にんげん</rt></ruby>の<ruby>伏線<rt>ふくせん</rt></ruby>だったのかもしれません。
+<ruby>地獄<rt>じごく</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>でそんなことは<ruby>考<rt>かんが</rt></ruby>えませんでした。でも今思えば、こういうことばの<ruby>話<rt>はなし</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>向<rt>む</rt></ruby>くところは、もうそのころから<ruby>僕<rt>ぼく</rt></ruby>らしかったのかもしれません。
 
 ## １０．<ruby>親<rt>おや</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>も<ruby>知<rt>し</rt></ruby>らなかった
 
-ここが、<ruby>今<rt>いま</rt></ruby><ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>すといちばんつらいところです。
+ここが、今思い出すといちばんつらいところです。
 
 この<ruby>間<rt>あいだ</rt></ruby>ずっと、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>知<rt>し</rt></ruby>りませんでした。
 
-<ruby>使<rt>つか</rt></ruby>っていたことも。<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいたことも。<ruby>風呂場<rt>ふろば</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>で<ruby>一週間<rt>いっしゅうかん</rt></ruby><ruby>過<rt>す</rt></ruby>ごしたことも。<ruby>顔中<rt>かおじゅう</rt></ruby>の<ruby>血管<rt>けっかん</rt></ruby>が<ruby>破<rt>やぶ</rt></ruby>れたことも。<ruby>携帯<rt>けいたい</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめて<ruby>朝<rt>あさ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っていたことも。
+<ruby>使<rt>つか</rt></ruby>っていたことも。<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいたことも。<ruby>風呂場<rt>ふろば</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>で一週間過ごしたことも。<ruby>顔中<rt>かおじゅう</rt></ruby>の<ruby>血管<rt>けっかん</rt></ruby>が<ruby>破<rt>やぶ</rt></ruby>れたことも。<ruby>携帯<rt>けいたい</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめて<ruby>朝<rt>あさ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っていたことも。
 
 <ruby>何<rt>なに</rt></ruby>も。
 
-<ruby>薬物依存<rt>やくぶついぞん</rt></ruby>について<ruby>知<rt>し</rt></ruby>っておいてほしいのは、これです。<ruby>依存症<rt>いぞんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>路上<rt>ろじょう</rt></ruby>にいるとは<ruby>限<rt>かぎ</rt></ruby>りません。
+<ruby>薬物依存<rt>やくぶついぞん</rt></ruby>について、ひとつ<ruby>知<rt>し</rt></ruby>っておいてほしいことがあります。<ruby>依存症<rt>いぞんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>路上<rt>ろじょう</rt></ruby>にいるとは<ruby>限<rt>かぎ</rt></ruby>りません。
 
 <ruby>普通<rt>ふつう</rt></ruby>にアルバイトをしていて、<ruby>普通<rt>ふつう</rt></ruby>に<ruby>友<rt>とも</rt></ruby>だちがいて、<ruby>普通<rt>ふつう</rt></ruby>に<ruby>親<rt>おや</rt></ruby>と<ruby>夕飯<rt>ゆうはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べています。
 
@@ -318,21 +318,21 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 > **「<ruby>自分<rt>じぶん</rt></ruby>をかわいそうがるのはやめろ。<ruby>立<rt>た</rt></ruby>て。<ruby>願書<rt>がんしょ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>せ。」**
 
-やさしいことばではありません。でも、<ruby>僕<rt>ぼく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>だったのは、やさしさではなく**<ruby>行<rt>い</rt></ruby>き<ruby>先<rt>さき</rt></ruby>**でした。
+やさしいことばではありません。でも、そのときの<ruby>僕<rt>ぼく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>だったのは、やさしい<ruby>慰<rt>なぐさ</rt></ruby>めよりも**<ruby>行<rt>い</rt></ruby>き<ruby>先<rt>さき</rt></ruby>**でした。
 
-<ruby>依存症<rt>いぞんしょう</rt></ruby>から<ruby>抜<rt>ぬ</rt></ruby>け<ruby>出<rt>だ</rt></ruby>すのに、いちばん<ruby>効<rt>き</rt></ruby>くものは<ruby>何<rt>なに</rt></ruby>か。<ruby>研究<rt>けんきゅう</rt></ruby>でもよく<ruby>言<rt>い</rt></ruby>われることですが、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>実感<rt>じっかん</rt></ruby>ともぴったり<ruby>合<rt>あ</rt></ruby>います。
+<ruby>依存症<rt>いぞんしょう</rt></ruby>から<ruby>抜<rt>ぬ</rt></ruby>け<ruby>出<rt>だ</rt></ruby>すのに、いちばん<ruby>効<rt>き</rt></ruby>くものは<ruby>何<rt>なに</rt></ruby>か。<ruby>僕<rt>ぼく</rt></ruby>の<ruby>実感<rt>じっかん</rt></ruby>では、これです。
 
 > **<ruby>薬<rt>くすり</rt></ruby>より<ruby>大事<rt>だいじ</rt></ruby>なものが、<ruby>人生<rt>じんせい</rt></ruby>にできること。**
 
-## １２．<ruby>作文<rt>さくぶん</rt></ruby><ruby>一枚<rt>いちまい</rt></ruby>で<ruby>人生<rt>じんせい</rt></ruby>が<ruby>変<rt>か</rt></ruby>わった
+## １２．<ruby>作文一枚<rt>さくぶんいちまい</rt></ruby>で<ruby>人生<rt>じんせい</rt></ruby>が<ruby>変<rt>か</rt></ruby>わった
 
 <ruby>問題<rt>もんだい</rt></ruby>がひとつありました。
 
-<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>は、**ひどいもの**でした。ウェナッチー・バレー・コミュニティ・カレッジでのGPAは、<ruby>目<rt>め</rt></ruby>も<ruby>当<rt>あ</rt></ruby>てられません。<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>み<ruby>続<rt>つづ</rt></ruby>けた<ruby>結果<rt>けっか</rt></ruby>です。
+<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>は、**ひどいもの**でした。ウェナッチー・バレー・コミュニティ・カレッジでのGPAは、<ruby>目<rt>め</rt></ruby>も<ruby>当<rt>あ</rt></ruby>てられません。<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>み<ruby>続<rt>つづ</rt></ruby>けたからです。
 
 ふつうなら、<ruby>落<rt>お</rt></ruby>ちます。
 
-でも、<ruby>願書<rt>がんしょ</rt></ruby>には<ruby>作文<rt>さくぶん</rt></ruby>（エッセイ）がありました。<ruby>僕<rt>ぼく</rt></ruby>はそこに、**<ruby>言語学<rt>げんごがく</rt></ruby>への<ruby>情熱<rt>じょうねつ</rt></ruby>**を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>書<rt>か</rt></ruby>きました。
+でも、<ruby>願書<rt>がんしょ</rt></ruby>には<ruby>作文<rt>さくぶん</rt></ruby>（エッセイ）がありました。<ruby>僕<rt>ぼく</rt></ruby>はそこに、**<ruby>言語学<rt>げんごがく</rt></ruby>への<ruby>情熱<rt>じょうねつ</rt></ruby>**を全部書きました。
 
 ことばがどう<ruby>変<rt>か</rt></ruby>わっていくのか。<ruby>音<rt>おと</rt></ruby>がどう<ruby>並<rt>なら</rt></ruby>ぶのか。<ruby>人間<rt>にんげん</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、ことばがどう<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てられているのか。
 
@@ -348,13 +348,13 @@ tags: ["依存症", "オピオイド", "脳科学"]
 
 <ruby>先生<rt>せんせい</rt></ruby>は<ruby>僕<rt>ぼく</rt></ruby>を**<ruby>言語<rt>げんご</rt></ruby>ラボ**で<ruby>働<rt>はたら</rt></ruby>かせました。<ruby>僕<rt>ぼく</rt></ruby>には<ruby>行<rt>い</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>ができ、やることができ、<ruby>期待<rt>きたい</rt></ruby>してくれる<ruby>人<rt>ひと</rt></ruby>ができました。
 
-<ruby>薬<rt>くすり</rt></ruby>のことは、<ruby>二度<rt>にど</rt></ruby>と<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りませんでした。
+それから、<ruby>薬<rt>くすり</rt></ruby>のほうへ<ruby>戻<rt>もど</rt></ruby>ることはありませんでした。
 
 ADHDの<ruby>脳<rt>のう</rt></ruby>は「<ruby>興味<rt>きょうみ</rt></ruby>」で<ruby>動<rt>うご</rt></ruby>きます。<ruby>僕<rt>ぼく</rt></ruby>の<ruby>脳<rt>のう</rt></ruby>は、ようやくオピオイド<ruby>以外<rt>いがい</rt></ruby>で<ruby>火<rt>ひ</rt></ruby>がつくものを<ruby>見<rt>み</rt></ruby>つけたのです。
 
 ## １３．<ruby>死<rt>し</rt></ruby>んだ<ruby>同級生<rt>どうきゅうせい</rt></ruby>たちのこと
 
-<ruby>僕<rt>ぼく</rt></ruby>は<ruby>運<rt>うん</rt></ruby>がよかった。それだけです。
+<ruby>僕<rt>ぼく</rt></ruby>は<ruby>運<rt>うん</rt></ruby>がよかった。ほんとうに、それだけです。
 
 「<ruby>意志<rt>いし</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>かったから」ではありません。<ruby>僕<rt>ぼく</rt></ruby>がやめたのは、たまたま**<ruby>耐<rt>た</rt></ruby>えられない<ruby>事実<rt>じじつ</rt></ruby>**を<ruby>知<rt>し</rt></ruby>ったからです。そして、たまたま**ジミーが<ruby>来<rt>き</rt></ruby>た**からです。そして、たまたま**<ruby>僕<rt>ぼく</rt></ruby>の<ruby>作文<rt>さくぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでくれた<ruby>先生<rt>せんせい</rt></ruby>がいた**からです。
 
@@ -368,7 +368,7 @@ ADHDの<ruby>脳<rt>のう</rt></ruby>は「<ruby>興味<rt>きょうみ</rt></r
 
 そしてこれは、<ruby>路地裏<rt>ろじうら</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まったわけではありません。**<ruby>医者<rt>いしゃ</rt></ruby>の<ruby>処方箋<rt>しょほうせん</rt></ruby>**から<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>製薬会社<rt>せいやくがいしゃ</rt></ruby>は「<ruby>依存性<rt>いぞんせい</rt></ruby>はほとんどない」と<ruby>説明<rt>せつめい</rt></ruby>し、<ruby>医者<rt>いしゃ</rt></ruby>たちはそれを<ruby>信<rt>しん</rt></ruby>じました。
 
-<ruby>僕<rt>ぼく</rt></ruby>の<ruby>親知<rt>おやし</rt></ruby>らずの<ruby>痛<rt>いた</rt></ruby>み<ruby>止<rt>ど</rt></ruby>めも、その<ruby>時代<rt>じだい</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>でした。
+<ruby>僕<rt>ぼく</rt></ruby>の<ruby>親知らず<rt>おやしらず</rt></ruby>の<ruby>痛み止め<rt>いたみどめ</rt></ruby>も、その<ruby>時代<rt>じだい</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>でした。
 
 ## １４．<ruby>今<rt>いま</rt></ruby>
 
@@ -398,7 +398,7 @@ ADHDの<ruby>脳<rt>のう</rt></ruby>は「<ruby>興味<rt>きょうみ</rt></r
 
 - **オピオイド** … ケシ（<ruby>芥子<rt>けし</rt></ruby>）から<ruby>作<rt>つく</rt></ruby>られる、または<ruby>同<rt>おな</rt></ruby>じように<ruby>働<rt>はたら</rt></ruby>く<ruby>薬<rt>くすり</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>。モルヒネ、ヘロイン、オキシコドンなど
 - **オキシコンチン** … オキシコドンを<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>放出<rt>ほうしゅつ</rt></ruby>する<ruby>錠剤<rt>じょうざい</rt></ruby>。がんの<ruby>痛<rt>いた</rt></ruby>みのための<ruby>薬<rt>くすり</rt></ruby>だった
-- **アセトアミノフェン** … ふつうの<ruby>解熱<rt>げねつ</rt></ruby><ruby>鎮痛剤<rt>ちんつうざい</rt></ruby>（タイレノール）。<ruby>飲<rt>の</rt></ruby>みすぎると<ruby>肝臓<rt>かんぞう</rt></ruby>をこわす
+- **アセトアミノフェン** … ふつうの<ruby>解熱鎮痛剤<rt>げねつちんつうざい</rt></ruby>（タイレノール）。<ruby>飲<rt>の</rt></ruby>みすぎると<ruby>肝臓<rt>かんぞう</rt></ruby>をこわす
 - **<ruby>受容体<rt>じゅようたい</rt></ruby>** … <ruby>細胞<rt>さいぼう</rt></ruby>の<ruby>表面<rt>ひょうめん</rt></ruby>にある「<ruby>鍵穴<rt>かぎあな</rt></ruby>」。<ruby>信号<rt>しんごう</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る<ruby>装置<rt>そうち</rt></ruby>
 - **エンドルフィン** … <ruby>体<rt>からだ</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る、<ruby>痛<rt>いた</rt></ruby>みをやわらげる<ruby>物質<rt>ぶっしつ</rt></ruby>
 - **<ruby>側坐核<rt>そくざかく</rt></ruby>・<ruby>報酬系<rt>ほうしゅうけい</rt></ruby>** … <ruby>脳<rt>のう</rt></ruby>の「ごほうび<ruby>装置<rt>そうち</rt></ruby>」。<ruby>生<rt>い</rt></ruby>きるために<ruby>大事<rt>だいじ</rt></ruby>なことを<ruby>覚<rt>おぼ</rt></ruby>えさせる
@@ -415,6 +415,6 @@ ADHDの<ruby>脳<rt>のう</rt></ruby>は「<ruby>興味<rt>きょうみ</rt></r
 1. <ruby>僕<rt>ぼく</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>にバイコディンを「もっとほしい」と<ruby>思<rt>おも</rt></ruby>ったのは、なぜですか。<ruby>薬<rt>くすり</rt></ruby>のせいだけではなかった<ruby>理由<rt>りゆう</rt></ruby>を3つあげてください。
 2. パーコセットよりオキシコンチンのほうが<ruby>危険<rt>きけん</rt></ruby>だったのは、なぜですか。
 3. <ruby>耐性<rt>たいせい</rt></ruby>と<ruby>身体依存<rt>しんたいいぞん</rt></ruby>のちがいを、<ruby>自分<rt>じぶん</rt></ruby>のことばで<ruby>説明<rt>せつめい</rt></ruby>してみましょう。
-4. <ruby>離脱<rt>りだつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>自殺<rt>じさつ</rt></ruby>したい<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>くなるのは、なぜですか。<ruby>脳<rt>のう</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みから<ruby>説明<rt>せつめい</rt></ruby>してください。
+4. <ruby>離脱中<rt>りだつちゅう</rt></ruby>に<ruby>自殺<rt>じさつ</rt></ruby>したい<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>くなるのは、なぜですか。<ruby>脳<rt>のう</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みから<ruby>説明<rt>せつめい</rt></ruby>してください。
 5. ジミーのことばは、やさしくありませんでした。それでも<ruby>効<rt>き</rt></ruby>いたのは、なぜだと<ruby>思<rt>おも</rt></ruby>いますか。
 6. この<ruby>記事<rt>きじ</rt></ruby>では「オピオイドはとても<ruby>気持<rt>きも</rt></ruby>ちいい」と<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>書<rt>か</rt></ruby>いています。なぜ<ruby>筆者<rt>ひっしゃ</rt></ruby>は、そう<ruby>書<rt>か</rt></ruby>くことが<ruby>大事<rt>だいじ</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えたのでしょうか。
