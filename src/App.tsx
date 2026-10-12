@@ -1,12 +1,15 @@
 import { useEffect, useState } from "react";
 import ArticlePage from "./ArticlePage";
 import IndexPage from "./IndexPage";
+import KanaPage from "./kana/KanaPage";
 import { japanesePosts } from "./content/japanese/posts";
 
 function getHashId() {
   const hash = window.location.hash.slice(1);
   return hash && japanesePosts.some(p => p.id === hash) ? hash : null;
 }
+
+const isKanaHash = () => window.location.hash === "#kana";
 
 function getInitialTheme(): "dark" | "light" {
   const saved = localStorage.getItem("ja-theme");
@@ -60,11 +63,28 @@ function ThemeToggle() {
   );
 }
 
+function KanaBtn({ active }: { active: boolean }) {
+  return (
+    <a
+      href={active ? "#" : "#kana"}
+      className="kana-toggle"
+      data-active={active}
+      title={active ? "Back to articles" : "Kana practice sheets"}
+    >
+      あ
+    </a>
+  );
+}
+
 export default function App() {
   const [activeId, setActiveId] = useState<string | null>(getHashId);
+  const [kana, setKana] = useState(isKanaHash);
 
   useEffect(() => {
-    const onHashChange = () => setActiveId(getHashId());
+    const onHashChange = () => {
+      setActiveId(getHashId());
+      setKana(isKanaHash());
+    };
     window.addEventListener("hashchange", onHashChange);
     return () => window.removeEventListener("hashchange", onHashChange);
   }, []);
@@ -78,8 +98,11 @@ export default function App() {
   return (
     <>
       <HomeBtn />
+      <KanaBtn active={kana} />
       <ThemeToggle />
-      {activePost ? (
+      {kana ? (
+        <KanaPage />
+      ) : activePost ? (
         <ArticlePage post={activePost} onBack={() => navigate(null)} />
       ) : (
         <IndexPage posts={japanesePosts} onSelect={id => navigate(id)} />
