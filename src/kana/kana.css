@@ -270,3 +270,48 @@
   .print-page:last-child { break-after: auto; page-break-after: auto; }
   .print-page svg { display: block; }
 }
+
+/* Presets strip */
+.kp-presets {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.kp-preset {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 99px;
+  border: 1px solid var(--border-accent);
+  background: var(--bg);
+  transition: all 0.15s;
+}
+.kp-preset:hover { border-color: var(--accent); }
+.kp-preset[data-on="true"] {
+  border-color: var(--accent);
+  background: var(--accent-dim);
+  box-shadow: 0 0 12px var(--accent-dim);
+}
+.kp-preset-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 4px 5px 13px;
+  font-size: 0.8rem;
+  color: var(--text);
+  cursor: pointer;
+}
+.kp-preset[data-on="true"] .kp-preset-name { color: var(--accent); font-weight: 600; }
+.kp-preset-dot { width: 6px; height: 6px; border-radius: 99px; background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+.kp-preset-x {
+  padding: 3px 10px 3px 4px;
+  font-size: 0.9rem;
+  color: var(--muted);
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.15s, color 0.15s;
+}
+.kp-preset-x:hover { opacity: 1; color: var(--accent); }
+.kp-chip-accent { color: var(--accent); border-color: var(--accent); }
+.kp-chip-accent:disabled { opacity: 0.4; cursor: default; }
+.kp-input-sm { width: 130px; padding: 4px 10px; border-radius: 99px; font-size: 0.8rem; }

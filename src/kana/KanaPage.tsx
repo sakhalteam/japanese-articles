@@ -8,8 +8,13 @@ import {
   LIMITS,
   ensureFontsLoaded,
   fontById,
+  loadPresets,
   loadSettings,
+  sameData,
+  savePresets,
   saveSettings,
+  toPresetData,
+  type Preset,
   ORIENTATION_PRESETS,
   type Orientation,
   type SheetSettings,
@@ -40,7 +45,10 @@ export default function KanaPage() {
   const [s, setS] = useState<SheetSettings>(loadSettings);
   const set = (patch: Partial<SheetSettings>) => setS(prev => ({ ...prev, ...patch }));
 
+  const [presets, setPresets] = useState<Preset[]>(loadPresets);
+
   useEffect(() => saveSettings(s), [s]);
+  useEffect(() => savePresets(presets), [presets]);
   useEffect(() => {
     ensureFontsLoaded();
     window.scrollTo(0, 0);
@@ -109,6 +117,7 @@ export default function KanaPage() {
         <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_380px]">
           {/* ── Left: picker + options ── */}
           <div className="min-w-0 space-y-5">
+            <PresetBar s={s} setS={setS} presets={presets} setPresets={setPresets} />
             <section className="kp-card">
               <div className="flex flex-wrap items-center justify-between gap-3 mb-4">
                 <Segmented
@@ -273,7 +282,7 @@ export default function KanaPage() {
 
                 <button
                   className="kp-chip"
-                  onClick={() => setS({ ...DEFAULTS, selected: s.selected, script: s.script, optionsOpen: true, moreKanaOpen: s.moreKanaOpen })}
+                  onClick={() => setS({ ...DEFAULTS, selected: s.selected, script: s.script, optionsOpen: true, moreKanaOpen: s.moreKanaOpen, activePreset: s.activePreset })}
                 >
                   Reset options to defaults
                 </button>
@@ -320,6 +329,107 @@ export default function KanaPage() {
         document.body
       )}
     </div>
+  );
+}
+
+function PresetBar({
+  s,
+  setS,
+  presets,
+  setPresets,
+}: {
+  s: SheetSettings;
+  setS: (fn: (prev: SheetSettings) => SheetSettings) => void;
+  presets: Preset[];
+  setPresets: (fn: (prev: Preset[]) => Preset[]) => void;
+}) {
+  const [naming, setNaming] = useState(false);
+  const [name, setName] = useState("");
+
+  const active = presets.find(p => p.id === s.activePreset) ?? null;
+  const modified = active !== null && !sameData(active.data, toPresetData(s));
+
+  const load = (p: Preset) => setS(prev => ({ ...prev, ...p.data, activePreset: p.id }));
+
+  const saveNew = () => {
+    const trimmed = name.trim();
+    if (!trimmed) return;
+    // Same name (any case) overwrites instead of making a twin
+    const existing = presets.find(p => p.name.toLowerCase() === trimmed.toLowerCase());
+    const id = existing?.id ?? `p${Date.now().toString(36)}`;
+    const data = toPresetData(s);
+    setPresets(prev => (existing ? prev.map(p => (p.id === id ? { ...p, name: trimmed, data } : p)) : [...prev, { id, name: trimmed, data }]));
+    setS(prev => ({ ...prev, activePreset: id }));
+    setNaming(false);
+    setName("");
+  };
+
+  const update = () => {
+    if (!active) return;
+    const data = toPresetData(s);
+    setPresets(prev => prev.map(p => (p.id === active.id ? { ...p, data } : p)));
+  };
+
+  const remove = (p: Preset) => {
+    if (!window.confirm(`Delete preset “${p.name}”?`)) return;
+    setPresets(prev => prev.filter(x => x.id !== p.id));
+    if (s.activePreset === p.id) setS(prev => ({ ...prev, activePreset: null }));
+  };
+
+  return (
+    <section className="kp-presets">
+      <span className="kp-group-label mr-1">Presets</span>
+      {presets.map(p => {
+        const isActive = p.id === s.activePreset;
+        return (
+          <span key={p.id} className="kp-preset" data-on={isActive}>
+            <button className="kp-preset-name" onClick={() => load(p)} title={`Load “${p.name}”`}>
+              {p.name}
+              {isActive && modified && <span className="kp-preset-dot" title="Changed since saved" />}
+            </button>
+            <button className="kp-preset-x" onClick={() => remove(p)} aria-label={`Delete preset ${p.name}`} title="Delete">
+              ×
+            </button>
+          </span>
+        );
+      })}
+      {modified && active && (
+        <>
+          <button className="kp-chip kp-chip-accent" onClick={update} title={`Save changes into “${active.name}”`}>
+            Update “{active.name}”
+          </button>
+          <button className="kp-chip" onClick={() => load(active)} title="Undo changes since loading">
+            Revert
+          </button>
+        </>
+      )}
+      {naming ? (
+        <span className="inline-flex items-center gap-1.5">
+          <input
+            autoFocus
+            className="kp-input kp-input-sm"
+            placeholder="e.g. Jojo"
+            value={name}
+            maxLength={24}
+            onChange={e => setName(e.target.value)}
+            onKeyDown={e => {
+              if (e.key === "Enter") saveNew();
+              if (e.key === "Escape") setNaming(false);
+            }}
+          />
+          <button className="kp-chip kp-chip-accent" onClick={saveNew} disabled={!name.trim()}>
+            Save
+          </button>
+          <button className="kp-chip" onClick={() => setNaming(false)}>
+            Cancel
+          </button>
+        </span>
+      ) : (
+        <button className="kp-chip" onClick={() => setNaming(true)}>
+          + {presets.length ? "Save as preset" : "Save these settings as a preset"}
+        </button>
+      )}
+    </section>
   );
 }
 

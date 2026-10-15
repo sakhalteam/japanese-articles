@@ -26,6 +26,7 @@ export interface SheetSettings {
   romaji: boolean;
   optionsOpen: boolean;
   moreKanaOpen: boolean;
+  activePreset: string | null; // id of the preset last loaded/saved
 }
 
 export const DEFAULTS: SheetSettings = {
@@ -49,6 +50,7 @@ export const DEFAULTS: SheetSettings = {
   romaji: false,
   optionsOpen: false,
   moreKanaOpen: false,
+  activePreset: null,
 };
 
 export const ORIENTATION_PRESETS: Record<Orientation, { rows: number; cols: number }> = {
@@ -84,6 +86,52 @@ export function saveSettings(s: SheetSettings) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
   } catch {
     /* private mode etc. — settings just won't stick */
+  }
+}
+
+// ── Presets ────────────────────────────────────────────────
+// A preset is every sheet setting (kana picks included) minus UI state.
+// Stored per browser in localStorage.
+const UI_KEYS = ["optionsOpen", "moreKanaOpen", "activePreset"] as const;
+export type PresetData = Omit<SheetSettings, (typeof UI_KEYS)[number]>;
+
+export interface Preset {
+  id: string;
+  name: string;
+  data: PresetData;
+}
+
+const PRESETS_KEY = "ja-kana-presets";
+
+export function toPresetData(s: SheetSettings): PresetData {
+  const out = { ...s } as Partial<SheetSettings>;
+  for (const k of UI_KEYS) delete out[k];
+  return out as PresetData;
+}
+
+// Order-insensitive compare, so re-toggling the same kana doesn't count as a change
+export function sameData(a: PresetData, b: PresetData): boolean {
+  const keys = Object.keys(toPresetData(DEFAULTS)) as (keyof PresetData)[];
+  const norm = (d: PresetData) => JSON.stringify(keys.map(k => (k === "selected" ? [...d.selected].sort() : d[k])));
+  return norm(a) === norm(b);
+}
+
+export function loadPresets(): Preset[] {
+  try {
+    const raw = localStorage.getItem(PRESETS_KEY);
+    const list = raw ? (JSON.parse(raw) as Preset[]) : [];
+    // Fill in any settings added since the preset was saved
+    return Array.isArray(list) ? list.map(p => ({ ...p, data: { ...toPresetData(DEFAULTS), ...p.data } })) : [];
+  } catch {
+    return [];
+  }
+}
+
+export function savePresets(list: Preset[]) {
+  try {
+    localStorage.setItem(PRESETS_KEY, JSON.stringify(list));
+  } catch {
+    /* private mode etc. */
   }
 }
 
