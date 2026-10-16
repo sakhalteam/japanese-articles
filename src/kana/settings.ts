@@ -135,6 +135,31 @@ export function savePresets(list: Preset[]) {
   }
 }
 
+// Share links: the whole preset rides in the URL as base64url JSON,
+// e.g. …/japanese-articles/#kana?p=eyJuIjoiSm9qbyIs…
+export function presetToLink(p: Preset): string {
+  const bytes = new TextEncoder().encode(JSON.stringify({ n: p.name, d: p.data }));
+  const b64 = btoa(String.fromCharCode(...bytes)).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+  return `${location.origin}${location.pathname}#kana?p=${b64}`;
+}
+
+export function presetFromHash(hash: string): { name: string; data: PresetData } | null {
+  const m = hash.match(/^#kana\?p=([\w-]+)/);
+  if (!m) return null;
+  try {
+    const b64 = m[1].replace(/-/g, "+").replace(/_/g, "/");
+    const bytes = Uint8Array.from(atob(b64), c => c.charCodeAt(0));
+    const { n, d } = JSON.parse(new TextDecoder().decode(bytes)) as { n: string; d: Partial<PresetData> };
+    if (typeof n !== "string" || !d || typeof d !== "object") return null;
+    const data = { ...toPresetData(DEFAULTS), ...d };
+    if (!Array.isArray(data.selected)) data.selected = DEFAULTS.selected;
+    if (!FONTS.some(f => f.id === data.font)) data.font = DEFAULTS.font;
+    return { name: n.slice(0, 24) || "Shared", data };
+  } catch {
+    return null;
+  }
+}
+
 // ── Fonts ──────────────────────────────────────────────────────
 // `textbook` = strokes drawn the way Japanese schools teach them
 // (e.g. き/さ with the lower stroke separated). Others are for fun.

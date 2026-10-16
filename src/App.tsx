@@ -9,7 +9,8 @@ function getHashId() {
   return hash && japanesePosts.some(p => p.id === hash) ? hash : null;
 }
 
-const isKanaHash = () => window.location.hash === "#kana";
+// "#kana" or "#kana?p=…" (a shared preset link)
+const isKanaHash = () => /^#kana(\?|$)/.test(window.location.hash);
 
 function getInitialTheme(): "dark" | "light" {
   const saved = localStorage.getItem("ja-theme");

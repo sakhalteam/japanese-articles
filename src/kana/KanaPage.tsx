@@ -9,6 +9,8 @@ import {
   ensureFontsLoaded,
   fontById,
   loadPresets,
+  presetFromHash,
+  presetToLink,
   loadSettings,
   sameData,
   savePresets,
@@ -49,6 +51,31 @@ export default function KanaPage() {
 
   useEffect(() => saveSettings(s), [s]);
   useEffect(() => savePresets(presets), [presets]);
+
+  // Opened from a shared preset link → import it, load it, tidy the URL
+  useEffect(() => {
+    const onHash = () => {
+      const shared = presetFromHash(window.location.hash);
+      if (!shared) return;
+      history.replaceState(null, "", "#kana");
+      const list = loadPresets();
+      const same = list.find(p => p.name === shared.name);
+      let preset: Preset;
+      if (same && sameData(same.data, shared.data)) {
+        preset = same;
+      } else {
+        // Never clobber a local preset that has drifted — keep both
+        const name = same ? `${shared.name} (shared)` : shared.name;
+        const prior = list.find(p => p.name === name);
+        preset = { id: prior?.id ?? `p${Date.now().toString(36)}`, name, data: shared.data };
+        setPresets(prev => [...prev.filter(p => p.id !== preset.id), preset]);
+      }
+      setS(prev => ({ ...prev, ...preset.data, activePreset: preset.id }));
+    };
+    onHash();
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []);
   useEffect(() => {
     ensureFontsLoaded();
     window.scrollTo(0, 0);
@@ -370,6 +397,18 @@ function PresetBar({
     setPresets(prev => prev.map(p => (p.id === active.id ? { ...p, data } : p)));
   };
 
+  const [copied, setCopied] = useState(false);
+  const copyLink = async (p: Preset) => {
+    const link = presetToLink(p);
+    try {
+      await navigator.clipboard.writeText(link);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1600);
+    } catch {
+      window.prompt("Copy this link:", link);
+    }
+  };
+
   const remove = (p: Preset) => {
     if (!window.confirm(`Delete preset “${p.name}”?`)) return;
     setPresets(prev => prev.filter(x => x.id !== p.id));
@@ -393,6 +432,11 @@ function PresetBar({
           </span>
         );
       })}
+      {active && !modified && (
+        <button className="kp-chip" onClick={() => copyLink(active)} title="Link that loads this preset on any device">
+          {copied ? "✓ Copied!" : "🔗 Copy link"}
+        </button>
+      )}
       {modified && active && (
         <>
           <button className="kp-chip kp-chip-accent" onClick={update} title={`Save changes into “${active.name}”`}>
