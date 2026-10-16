@@ -212,6 +212,12 @@ export default function KanaPage() {
                   </Field>
                 </OptGroup>
 
+                <OptGroup title="Stroke order">
+                  <Field label="Show stroke order" hint="Numbers in the example square; steps adds a build-up strip">
+                    <Segmented value={s.strokes} onChange={v => set({ strokes: v })} options={[["off", "Off"], ["numbers", "Numbers"], ["steps", "+ Steps"]]} />
+                  </Field>
+                </OptGroup>
+
                 <OptGroup title="Tracing ghosts">
                   <Field label="Ghost characters">
                     <Segmented value={s.ghostMode} onChange={v => set({ ghostMode: v })} options={[["none", "None"], ["fade", "Fade out"], ["all", "Every square"]]} />

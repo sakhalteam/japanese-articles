@@ -4,6 +4,7 @@ export type GuideStyle = "dotted" | "dashed";
 export type Palette = "grey" | "red" | "blue";
 export type GhostMode = "none" | "all" | "fade";
 export type Order = "chart" | "shuffle";
+export type StrokeMode = "off" | "numbers" | "steps";
 
 export interface SheetSettings {
   script: Script;
@@ -24,6 +25,7 @@ export interface SheetSettings {
   header: boolean;
   title: string;
   romaji: boolean;
+  strokes: StrokeMode;
   optionsOpen: boolean;
   moreKanaOpen: boolean;
   activePreset: string | null; // id of the preset last loaded/saved
@@ -48,6 +50,7 @@ export const DEFAULTS: SheetSettings = {
   header: true,
   title: "",
   romaji: false,
+  strokes: "numbers",
   optionsOpen: false,
   moreKanaOpen: false,
   activePreset: null,
