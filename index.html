@@ -7,6 +7,10 @@
     <meta name="description" content="Japanese reading practice. Articles with furigana support." />
   </head>
   <body>
+    <script>
+      // The kana sheet generator moved to Maple-Tomo — forward old links (incl. shared #kana?p= presets)
+      if (/^#kana(\?|$)/.test(location.hash)) location.replace("/maple-tomo/#/sheets" + location.hash.slice(5));
+    </script>
     <script>try{var t=localStorage.getItem('ja-theme');if(t==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
